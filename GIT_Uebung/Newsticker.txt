@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Erstellen Sie hier ihren Newsticker
  Gefahren für die Demokratie Trump ist ein Faschist
 
 Alle Reden von Rechtspopulismus. Das ist eine Verharmlosung. Wir erleben die Rückkehr des Faschismus. Die Demokratie hat die Gefahr verschlafen. Jetzt ist es zu spät.
+=======
+Barack Obama - Nein, er konnte nicht alles 
+Barack Obama, der Hoffnungsträger einer Generation, wird keine historische Präsidentschaft hinterlassen. Dennoch sollte Europa seine Abschieds-Botschaft hören. Ein AZ-Kommentar.
+Was für eine Diskrepanz! Damals, 2008 bei der Wahl Barack Obamas zum 44. US-Präsidenten war Amerika im Aufbruch, stand die Supermacht vor einer Zeitenwende, hofften auch Millionen Menschen in Europa auf eine bessere Welt. Unvergessen die Rede über den „Traum der Freiheit“, die Obama noch als wahlkämpfender Senator von Illinois an der Berliner Siegessäule hielt. Acht Jahre später, nach der Wahl von Donald Trump, überwiegt die fatalistische Erkenntnis, dass die Welt wenigstens (oder hoffentlich) nicht untergehen wird.
+>>>>>>> f70b781ec138691e8bc30d9ad2707067a75b4822

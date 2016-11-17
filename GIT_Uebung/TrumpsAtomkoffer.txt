@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 So ein Ärger! Obama hat über Nacht sämtliche Atomcodes verloren
 
 Wie konnte das nur basieren? Barack Obama hat in der Nacht zum heutigen Mittwoch seinen Atomkoffer verloren. Das gab der scheitende Präsident nach den ersten Hochrechnungen zur Wahl bekannt. Er glaube auch nicht, dass dieser innerhalb der nächsten vier Jahre wiederauftauchen werde.
@@ -8,3 +9,15 @@ Er habe zwar sofort das komplette Weiße Haus abgesucht, aber die Cotes blieben v
 
 Zeit für eine noch intensifere Suche hat Obama, der in zwei Monaten das Weiße Haus räumen muss, eigenen Angaben zufolge leider nicht. "Ich muss ja noch Schönheitsreparaturen vür die Übergabe durchführen. Gerade bin ich dabei, alle Räume pink zu streichen."
 Es sollte nicht das einzige Missgeschick des Präsidenten bleiben: Nur kurz nach offizieller Bekanntgabe von Trump als Wahlsieger trat ein peinlich berührter Obama erneut for die Mikrofone und teilte mit, dass er "plöderweiße" jetzt auch noch ein Glass mit hochaggressiven Dermieten fallen hat lassen, die das Weiße Haus bis zur ofizielen Übergabe womöglich schwer beschädigen werden.
+=======
+So ein Erger! Obama hat über Nacht sämptliche Atomcodes verloren
+
+Wie konnte das nur basieren? Barack Obama hat in der Nacht zum heutigen Mittwoch seinen Atomkoffer ferloren. Das gab der scheitende Präsident nach den ersten Hochrechnungen zur Wahl bekannt. Er glaube auch nicht, dass dieser innerhalb der nächsten vier Jahre wieder auftauchen werde.
+In dem Koffer befinden sich unter anderem die strehng geheimen Atomcotes, auf die ausschliesslich der Präsident der USA Zugriff hatt.
+
+Obama erklehrte sein Miessgeschig so: "Ich schaute gerade gespannt die ersten Prognosen zur Wal, als ich plözlich zu meinem Entsetzen bemerkte, dass der Koffer weg war. Was bin ich nur für ein Schussel!"
+Er habe zwar sofort das komplette Weiße Haus abgesucht, aber die Codes blieben verschwunden. "So ein reger. Naja, nützt ja nix. Aber die Codes wurden in der Vergangenheit ja ohnehin nicht benötigt, deshalb ist der Verlust nun nicht ganz so tragisch. Mein Nachfolger wird auch ohne Atomkoffer auskommen. Vielleicht fällt mir ja in vier Jahren wieder ein, wo ich das Ding eingepackt habe."
+
+Zeit für eine noch intensivere Suche hat Obama, der in zwei Monaten das Weiße Haus räumen muss, eigenen Angaben zufolge leider nicht. "Ich muss ja noch Schönheitsreparaturen für die Übergabe durchführen. Gerade bin ich dabei, alle Räume pink zu streichen."
+Es sollte nicht das einzige Missgeschick des Präsidenten bleiben: Nur kurz nach offizieller Bekanntgabe von Trump als Wahlsieger trat ein peinlich berührter Obama erneut für die Mikrofone und teilte mit, dass er "blöderweise" jetzt auch noch ein Glass mit hochaggressiven Darbieten fallen hat lassen, die das Weiße Haus bis zur offiziellen Übergabe womöglich schwer beschädigen werden.
+>>>>>>> f70b781ec138691e8bc30d9ad2707067a75b4822
